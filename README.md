@@ -34,8 +34,8 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 
 <div>
 <a href="https://github.com/marciojesusmaia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciojesusmaia&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciojesusmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciojesusmaia&layout=compact&langs_count=7&theme=cobalt2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciojesusmaia&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div>
   
   ![octocat-1682612710013](https://user-images.githubusercontent.com/88562590/234928029-a06f5e53-b758-458b-88d5-25f92f9ee816.png)
