@@ -58,9 +58,17 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 
 ## Minha estatíssticas
 
+### Atual
 <div align='center'>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=marciojesusmaia&theme=android-dark&border_radius=90&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=marciojesusmaia&theme=yellowdark&hide_border=falso&border_radius=90&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+
+</div>
+
+### Semanal
+<div align='center'>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=marciojesusmaia&theme=android-dark&hide_border=falso&border_radius=90&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
