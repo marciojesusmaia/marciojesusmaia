@@ -15,20 +15,30 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 
 ## Ferramentas e tecnologias
 
-![image](https://user-images.githubusercontent.com/88562590/234920801-abf8d282-ab03-4ad8-b03d-0ebb5dd536d5.png)![image](https://user-images.githubusercontent.com/88562590/234920938-7872c5a6-4431-4fda-ad6f-291ffe3a0995.png)![image](https://user-images.githubusercontent.com/88562590/234921051-f8d0e047-f21c-45c7-a00f-73cdd9ab47f8.png)![image](https://user-images.githubusercontent.com/88562590/234921432-17ebd5a4-c66b-484e-8f29-f3399e46e96c.png)![image](https://user-images.githubusercontent.com/88562590/234921610-242a909e-b70c-46f5-a33e-b508be10139a.png)![image](https://user-images.githubusercontent.com/88562590/234921652-e5ee9960-8e0c-4a39-8e01-4ec1d7fd555d.png)![image](https://user-images.githubusercontent.com/88562590/234921689-9eda15d6-4d70-4af0-85da-47482884cb42.png)
-
-## Estou aprendendo
-
-![image](https://user-images.githubusercontent.com/88562590/234923762-f097575b-14e6-42b0-9e12-5fd8320f53d0.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contatos
 
 <div>
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 <a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/mark_marcio/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:marciojesusmaia@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marciojesusmaia/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:marciojesusmaia@hotmail.com" target="_blan"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marciojesusmaia/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+
 </div>
+
+
 
 
 <div>
