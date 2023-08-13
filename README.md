@@ -33,19 +33,15 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 <a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/mark_marcio/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:marciojesusmaia@hotmail.com" target="_blan"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marciojesusmaia/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-
 </div>
-
-
-
 
 <div>
 <a href="https://github.com/marciojesusmaia">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciojesusmaia&layout=compact&langs_count=7&theme=cobalt2"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciojesusmaia&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ![octocat-1682612710013](https://user-images.githubusercontent.com/88562590/234928029-a06f5e53-b758-458b-88d5-25f92f9ee816.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/88562590/234928029-a06f5e53-b758-458b-88d5-25f92f9ee816.png" width="600px" heigth="600px">
+</div>
+
 
