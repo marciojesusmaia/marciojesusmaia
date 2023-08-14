@@ -8,7 +8,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=marciojesusmaia&label=VISUALIZAÇÕES&style=plastic&color=blue"/>
   <div>
-    <a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
   </div>
 </div>
