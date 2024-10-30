@@ -1,10 +1,7 @@
 <div align='center'>
-  <div>
-    <img src="https://media.giphy.com/media/cyBjN2W4SQGFT4SscZ/giphy.gif" width=400px>
-  </div>
   
   <div> 
-   <img  src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width='500'>
+   <img  src="https://i.giphy.com/KGhpQ5NMoWKQurlHwI.webp" width='500'>
 
   <a href="https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
@@ -43,6 +40,8 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![flet](https://img.shields.io/badge/Flet-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+
 <hr>
 
 ## Onde me encontrar
