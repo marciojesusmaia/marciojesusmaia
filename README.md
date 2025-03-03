@@ -1,7 +1,7 @@
 <div align='center'>
   
   <div> 
-   <img  src="https://i.giphy.com/KGhpQ5NMoWKQurlHwI.webp" width='500'>
+   <img  src="https://i.giphy.com/KGhpQ5NMoWKQurlHwI.webp" width='300' style=>
 
   <a href="https://www.youtube.com/channel/UCloDH3-Hea1XVaCjuYOFDag" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
@@ -37,10 +37,21 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![flet](https://img.shields.io/badge/Flet-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+
 
 <hr>
 
@@ -48,24 +59,19 @@ Sei que ainda tenho muito a aprender, mas sou esforçado e busco sempre o que eu
 
 <div>
   
-<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/mark_marcio/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:marciojesusmaia@hotmail.com" target="_blan"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marciojesusmaia/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/mark_marcio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marciojesusmaia@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marciojesusmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 
-## Minha estatíssticas
+## Minha estatísticas
 
-### Atual
-<div align='center'>
+
+<div >
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=marciojesusmaia&theme=yellowdark&hide_border=falso&border_radius=90&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marciojesusmaia&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 </div>
 
-### Semanal
-<div align='center'>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=marciojesusmaia&theme=android-dark&hide_border=falso&border_radius=90&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
-</div>
 
